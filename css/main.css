@@ -12,4 +12,59 @@ body {
     background-color: #fff;
 }
 
+header {
+width: 100%;
+display: inline-block;
+position: absolute;
+left: 5%;
+top: 5%;
+}
 
+header > .smoothies {
+    display: inline-block;
+    color: #FF777B;
+}
+
+ nav {
+    position: absolute;
+    top: 10%;
+    right: 20%;
+}
+
+nav > a {
+    padding: 5px 15px;
+    text-decoration: none;
+    color: black;
+}
+.icons {
+    text-align: center;
+    position: absolute;
+    top: 10%;
+    right: 10%;
+    padding: 1px 10px;
+}
+
+.icons > i {
+    padding: 1px 15px;
+}
+.container {
+    width: 100%;
+    display: inline-block;
+    position: absolute;
+    left: 5%;
+    top: 15%;
+}
+
+.left-column {
+    width: 50%;
+    display: inline-block;
+    float: left;
+
+}
+
+.right-column {
+    width: 50%;
+    display: inline-block;
+    float: right;
+    margin-top: 5%; 
+}
