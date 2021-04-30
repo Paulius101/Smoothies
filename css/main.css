@@ -62,9 +62,25 @@ nav > a {
 
 }
 
+.left-column > img {
+padding: 25px 50px;
+background-color: #FCC0CE;
+border: 1px none;
+border-radius: 360px;
+}
+
+.left-column > .fa {
+
+}
+
+
 .right-column {
     width: 50%;
     display: inline-block;
     float: right;
     margin-top: 5%; 
+}
+
+.lefty-column > ul {
+    
 }
