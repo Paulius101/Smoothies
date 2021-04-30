@@ -64,21 +64,39 @@ nav > a {
 }
 
 
-.left-column > .big-circle {
+.images > .big-circle {
     margin-top: 10%;
 }
 
-.left-column > .cup {
+.images > .cup {
     position: absolute;
-    left:5%;
+    left:8%;
     top:10%;
-
 }
 
-.left-column > .fa {
-
+.image-complex {
+    position: relative;
 }
 
+.icons2 > .fa {
+padding: 12px 20px;
+background-color: #FF5E61;
+border-radius: 360px;
+color: white;
+font-size: 25px;
+}
+
+.icons2 > .fa:first-of-type {
+position: absolute;
+bottom: 40%;
+left: -2.5%;
+}
+
+.icons2 > .fa:last-of-type {
+    position: absolute;
+    bottom: 40%;
+    right: 38%;
+    }
 
 .right-column {
     width: 50%;
