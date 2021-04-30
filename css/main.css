@@ -53,6 +53,7 @@ nav > a {
     position: absolute;
     left: 5%;
     top: 15%;
+    background-color: #fff;
 }
 
 .left-column {
@@ -62,11 +63,14 @@ nav > a {
 
 }
 
-.left-column > img {
-padding: 25px 50px;
-background-color: #FCC0CE;
-border: 1px none;
-border-radius: 360px;
+
+.left-column > .big-circle {
+    margin-top: 10%;
+}
+
+.left-column > .cup {
+    position: absolute;
+    margin-right: 10%;
 }
 
 .left-column > .fa {
@@ -78,9 +82,9 @@ border-radius: 360px;
     width: 50%;
     display: inline-block;
     float: right;
-    margin-top: 5%; 
+    margin-top: 10%; 
 }
 
 .lefty-column > ul {
-    
+
 }
