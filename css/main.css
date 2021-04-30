@@ -70,7 +70,9 @@ nav > a {
 
 .left-column > .cup {
     position: absolute;
-    margin-right: 10%;
+    left:5%;
+    top:10%;
+
 }
 
 .left-column > .fa {
