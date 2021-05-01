@@ -155,13 +155,23 @@ left: 49.8%;
     float: right ;
 }
 
+.righty-column > img {
+    margin-top: 5%;
+}
+.righty-column > img:first-of-type {
+    padding: 15px 20px;
+    border: 2px;
+    border-radius: 360px;
+    background-color: #FCC7D6;
+}
+
 .add_to_cart {
     display: inline-block;
     float: left;
     margin-top: 5%;
     margin-right: 70%;
     padding: 15px 50px;
-    border: 2px none;
+    border: 2px;
     border-radius: 180px;
     background-color: #FF5E61;
     color: white;
