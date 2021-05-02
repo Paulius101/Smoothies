@@ -89,11 +89,15 @@ nav > a {
     border: none;
     border-radius: 25px;
     color: white;
-    font-size: 30px;
-    position: absolute;
-    top:29%;
+    font-size: 20px;
+    text-align: center;
+}
+
+.icons2 > button > .fa {
+   
 }
  button > .fa:first-of-type {
+
     position: absolute;
 
 }
