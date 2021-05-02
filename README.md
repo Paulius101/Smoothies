@@ -11,7 +11,7 @@ This project is for educational porpuses only. Pull request are welcome, but pri
 
 Site published at https://paulius101.github.io/Smoothies/
 
-Design: [Smoothies](https://media.discordapp.net/attachments/833468929020133416/837382576196157502/unknown.png?width=1008&height=630
+Design: [Smoothies](https://media.discordapp.net/attachments/833468929020133416/837382576196157502/unknown.png?width=1008&height=630)
 
 ## Project features
 
