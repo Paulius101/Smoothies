@@ -59,9 +59,7 @@ nav > a {
     margin-left: 20px;
     margin-right: 20px;
     display: inline-block;
-    background-color: #fff;
-
-    
+    background-color: #fff;   
 }
 
 .left-column {
@@ -69,7 +67,8 @@ nav > a {
     display: inline-block;
     float: left;
     position: relative;
-    margin-top: 1%;
+    margin-top: 10px;
+    margin-left: 5px;
     
 }
 
@@ -78,28 +77,34 @@ nav > a {
     padding: 15px;
     width: 550px;
     position: absolute;
-    top: 0%;
-    left: 15%;
+    left: 145px;
 }
 
-.icons2 > button {
-    width: 43px;
-    height: 43px;
+.icons2 > a {
     background-color: #FF5E61;
+    padding: 13px 20px 9px;
     border: none;
     border-radius: 25px;
     color: white;
-    font-size: 20px;
+    font-size: 22px;
     text-align: center;
-}
-
-.icons2 > button > .fa {
-   
-}
- button > .fa:first-of-type {
-
     position: absolute;
+}
 
+.icons2 > a:first-of-type {
+    position: absolute;
+    top: 278px;
+    left: 140px;
+}
+
+.icons2 > a:last-of-type {
+    position: absolute;
+    top: 278px;
+    left: 650px;
+}
+   
+.icons2 > a:hover {
+    background-color: #CF171A;
 }
 
 .right-column {
@@ -184,4 +189,9 @@ padding: 17px 17px;
     background-color: #FF5E61;
     color: white;
     font-weight: bold;
+    cursor:pointer;
+}
+
+.add_to_cart:hover {
+    background-color: #CF171A;
 }
