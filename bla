@@ -1,0 +1,11 @@
+.icons2 > .fa:first-of-type {
+position: absolute;
+bottom: 40%;
+left: -2.5%;
+}
+
+.icons2 > .fa:last-of-type {
+    position: absolute;
+    bottom: 40%;
+    right: 38%;
+    }
