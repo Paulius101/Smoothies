@@ -17,7 +17,6 @@ Design: [Smoothies](https://media.discordapp.net/attachments/833468929020133416/
 
 - Github pages
 - multi-page 
-- cool on all devices
 - absolute / relative positioning
 
 ## Authors
